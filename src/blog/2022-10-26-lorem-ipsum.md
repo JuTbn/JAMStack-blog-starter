@@ -3,7 +3,7 @@ title: Lorem ipsum
 description: This is a short description
 author: Julien Toubon
 date: 2022-10-26T21:12:00.365Z
-tags: List [ "post" , "featured"]
+tags: List [ "post", "featured" ]
 image: /assets/blog/pexels-bich-tran-669996.jpg
 imageAlt: Setup
 ---
