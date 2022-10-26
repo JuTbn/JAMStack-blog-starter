@@ -1,6 +1,10 @@
 ---
 title: Lorem ipsum
-description: This is a short description
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio ut sem nulla
+  pharetra. Auctor eu augue ut lectus arcu bibendum at. Cum sociis natoque
+  penatibus et. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus
+  vitae.
 author: Julien Toubon
 date: 2022-10-26T21:12:00.365Z
 tags: List [ "post", "featured" ]
